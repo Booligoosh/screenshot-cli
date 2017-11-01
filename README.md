@@ -1,3 +1,4 @@
+[![first-timers-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](#contributing)
 # screenshot-cli
 Screenshot websites via a command-line-interface
 ## Install
@@ -16,6 +17,8 @@ source ~/.bashrc
 screenshot -u <url> -p <folder-path> -n <filename-without-extension>
 ```
 ## Contributing
+[![first-timers-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](http://www.firsttimersonly.com/)
+
 Contributions are welcome. Please see the [issues](https://github.com/Booligoosh/screenshot-cli/issues), or add anything that your brain can conjure up!
 ## Credits
 This project was based on [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921), a really awesome article that you should check out.
