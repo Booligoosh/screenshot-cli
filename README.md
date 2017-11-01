@@ -16,6 +16,14 @@ source ~/.bashrc
 ```bash
 screenshot -u <url> -p <folder-path> -n <filename-without-extension>
 ```
+
+You can also supply a custom resolution for the screenshot by providing the -w
+and -h flags
+```bash
+screenshot -u <url> -p <folder-path> -n <filename-without-extension> -h <height> -w <width>
+```
+
+
 ## Contributing
 [![first-timers-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](http://www.firsttimersonly.com/)
 
