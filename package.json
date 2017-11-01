@@ -1,0 +1,8 @@
+{
+  "name": "screenshot",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "minimalist": "^1.0.0",
+    "puppeteer": "^0.12.0"
+  }
+}
